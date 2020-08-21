@@ -1,5 +1,7 @@
 # Citi Bike Analytics - Jersey City 2018 - 2020
 
+[Tableau link.](https://public.tableau.com/profile/damir.zunic#!/vizhome/CityBikeAnalytics-JerseyCity2018to2020/TheStory?publish=yes)
+
 ### Objective
 
 The purpose of this project was to aggregate data found in the City Bike History Logs and find several interesting insights from data.
