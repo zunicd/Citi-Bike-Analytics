@@ -1,6 +1,6 @@
 # Citi Bike Analytics - Jersey City 2018 - 2020
 
-[Tableau link.](https://public.tableau.com/profile/damir.zunic#!/vizhome/CityBikeAnalytics-JerseyCity2018to2020/TheStory?publish=yes)
+[Tableau link.](https://public.tableau.com/profile/damir.zunic#!/vizhome/CitiBikeAnalytics-JerseyCity2018to2020/TheStory?publish=yes)
 
 ### Objective
 
