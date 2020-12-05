@@ -4,7 +4,7 @@
 
 ### Objective
 
-The purpose of this project was to aggregate data found in the City Bike History Logs and find several interesting insights from data.
+The purpose of this project was to aggregate data found in the Citi Bike History Logs and find several interesting insights from data.
 
 These designed visualizations were used to assemble dashboards and finally our Story.
 
